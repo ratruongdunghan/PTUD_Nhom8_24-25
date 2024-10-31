@@ -27,6 +27,7 @@ public class Model_Phong {
         this.MaLoaiPhong = MaLoaiPhong;
         this.Tang = Tang;
     }
+//    sdfk
 
     public String getMaPhong() {
         return MaPhong;
